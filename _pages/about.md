@@ -12,4 +12,4 @@ PhD candidate in Aerospace Engineering advised by Dr. John Valasek at Vehicle Sy
 
 My research comprises developing novel machine learning algorithms for human-machine interaction, computer-vision algorithms for object detection, and how to leverage them to improve and control autonomous systems.
 
-**Contact**: vinicius.goecks [at] tamu [dot] edu
+Current webpage: [https://www.vggoecks.com/](https://www.vggoecks.com/)
