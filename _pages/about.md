@@ -11,3 +11,5 @@ redirect_from:
 PhD candidate in Aerospace Engineering advised by Dr. John Valasek at Vehicle Systems & Control Laboratory, Texas A&M University.
 
 My research comprises developing novel machine learning algorithms for human-machine interaction, computer-vision algorithms for object detection, and how to leverage them to improve and control autonomous systems.
+
+Contact me at vggoecks [at] ieee [dot] org or vinicius [dot] goecks [at] tamu [dot] edu.
