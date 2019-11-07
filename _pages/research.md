@@ -6,8 +6,10 @@ author_profile: true
 ---
 ## Human-in-the-loop Reinforcement Learning
 
-Using human interaction to safely train autonomous systems in real-time. 
+Using human interaction to safely train autonomous systems. 
 
+- PODNet: A Neural Network for Discovery of Plannable Options
+  - [arXiv paper](https://arxiv.org/abs/1911.00171)
 - Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Sparse Reward Environments
   - [Project page](https://viniciusguigo.github.io/cycle-of-learning/)
   - [arXiv paper](https://arxiv.org/abs/1910.04281)
