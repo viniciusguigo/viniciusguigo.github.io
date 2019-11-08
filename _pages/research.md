@@ -38,7 +38,7 @@ Reinforcement learning agent trained to control a real fixed-wing aircraft and p
 
 Caltech Space Challenge 2017 (Lunarport): design a space mission to produce propellant in space by extracting lunar resources and enable deep space missions.
 
-- [Challenge information](http://csc.caltech.edu/CSC2017/pages/participants.html)
+- [Challenge information](https://csc.caltech.edu/CSC2017/pages/participants.html)
 
 ## Low-cost Satellite Attitude Control and Estimation Testbed (LAT)
 
@@ -62,4 +62,4 @@ Assembling and testing a second HOMER unit for testing space proximity operation
 
 Design and implementation of the Tri-State Boost Current Source Inverter (CSI), awarded the IES Best Innovative Design of Power Electronic Converters during the IFEC'11.
 
-- [Challenge information](http://energychallenge.weebly.com/ifec-2011.html)
+- [Challenge information](https://energychallenge.weebly.com/ifec-2011.html)
