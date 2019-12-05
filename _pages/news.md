@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 <!-- - Succesfully defended my PhD disseration this December 2019! -->
+- Defended my PhD dissertation this December 2019!
+<center><img src="../images/defense.jpg" alt="PhD Defense" width="500"/></center>
 - Released on November 2019 the preprint "PODNet: A Neural Network for Discovery of Plannable Options" ([link](https://arxiv.org/abs/1911.00171){:target="_blank"}).
 - Released on October 2019 the preprint "Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Sparse Reward Environments" ([link](https://arxiv.org/abs/1910.04281){:target="_blank"}).
 - Presented on February 2019 the research work "Efficiently Combining Human Demonstrations and Interventions for Safe Training of Autonomous Systems in Real-Time" ([paper](https://arxiv.org/abs/1810.11545){:target="_blank"}), at the [AAAI-19](https://aaai.org/Conferences/AAAI-19/){:target="_blank"} (picture by [Rob Meadows](https://twitter.com/robmeadows/status/1091382352167628800){:target="_blank"}).
