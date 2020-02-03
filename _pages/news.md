@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <!-- - Succesfully defended my PhD disseration this December 2019! -->
+- Paper "Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments" accepted this January 2020 to be presented at [AAMAS-20](https://aamas2020.conference.auckland.ac.nz/papers/).
 - Defended my PhD dissertation this December 2019!
 <center><img src="../images/defense.jpg" alt="PhD Defense" width="500"/></center>
 - Released on November 2019 the preprint "PODNet: A Neural Network for Discovery of Plannable Options" ([link](https://arxiv.org/abs/1911.00171){:target="_blank"}).
