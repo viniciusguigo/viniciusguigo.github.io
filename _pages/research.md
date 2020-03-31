@@ -21,11 +21,12 @@ Using human interaction to safely train autonomous systems.
 - Cyber-Human Approach For Learning Human Intention And Shape Robotic Behavior Based On Task Demonstration
   - [Paper](https://ieeexplore.ieee.org/document/8489595)
 
-## Vision-based Detection and Tracking of Unmanned Air Systems for Counter-UAS
+## Vision-based Detection of Unmanned Air Systems for Counter-UAS
 
-Combines machine learning and classical estimation techniques to detect and track unmanned air systems in real-time. Developed at the MD5 A-Hack-of-the-Drones 2018. 
+Combines data from RGB and long-wave infrared (LWIR) cameras to detect drones through previously difficult environments such as when they are crossing the horizon/treeline, during sunrise with cameras pointed to the sun, 
 
-- [Video](https://www.youtube.com/watch?v=Q6hQ4hpm89M)
+- [Project page](https://sites.google.com/view/tamudrone-spie2020/)
+- [arXiv paper](https://arxiv.org/abs/2003.12638)
 - [News article](https://engineering.tamu.edu/news/2018/11/a-team-wins-md5-a-hack-of-the-drones-2018.html)
 
 ## Intelligent Motion Video Guidance for Unmanned Air System Ground Target Tracking
