@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <!-- - Succesfully defended my PhD disseration this December 2019! -->
+- Preprint of paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" is release on [arXiv](https://arxiv.org/abs/2003.12638) this March 2020. Please take a look at the [projecr page](https://sites.google.com/view/tamudrone-spie2020/) for more information. 
 - Paper "Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments" accepted this January 2020 to be presented at [AAMAS-20](https://aamas2020.conference.auckland.ac.nz/papers/).
 - Defended my PhD dissertation this December 2019! Presentation available at [Dropbox](https://www.dropbox.com/s/qly3jbbl9g8qqns/Presentation_Defense_VGGoecks_final.pdf).
 <center><img src="../images/defense.jpg" alt="PhD Defense" width="500"/></center>
