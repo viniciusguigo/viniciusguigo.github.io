@@ -34,6 +34,7 @@ Combines data from RGB and long-wave infrared (LWIR) cameras to detect drones th
   - [News article](https://engineering.tamu.edu/news/2018/11/a-team-wins-md5-a-hack-of-the-drones-2018.html)
 
 # Intelligent Motion Video Guidance for Unmanned Air System Ground Target Tracking
+![Target Tracking with Reinforcement Learning](../images/tt_rl.png)
 
 Reinforcement learning agent trained to control a real fixed-wing aircraft and perform video tracking of ground targets. 
 
@@ -41,6 +42,7 @@ Reinforcement learning agent trained to control a real fixed-wing aircraft and p
 - [Video](https://youtu.be/isJtDdAiM3U)
 
 # Enabling Deep Space Exploration with an In-Space Propellant Depot Supplied from Lunar Ice
+![Concept of operations for Lunar surface systems](../images/lunar.png)
 
 Caltech Space Challenge 2017 (Lunarport): design a space mission to produce propellant in space by extracting lunar resources and enable deep space missions.
 
@@ -48,6 +50,7 @@ Caltech Space Challenge 2017 (Lunarport): design a space mission to produce prop
 - [Challenge information](https://csc.caltech.edu/CSC2017/pages/participants.html)
 
 # Low-cost Satellite Attitude Control and Estimation Testbed (LAT)
+![LAT and camera calibration](../images/lat.png)
 
 Custom 3-DoF experimental attitude platform for testing attitude control and estimation algorithms.
 
@@ -55,6 +58,7 @@ Custom 3-DoF experimental attitude platform for testing attitude control and est
 - [Video](https://www.youtube.com/watch?v=pO9eCf5VcRc)
 
 # Computer Vision Aided Robotic Operations on the International Space Station
+![LSD-SLAM on the International Space Station](../images/iss.png)
 
 Development of a real-time, video-based, stereo reconstruction of large-scale environments to support robotics operations.
 

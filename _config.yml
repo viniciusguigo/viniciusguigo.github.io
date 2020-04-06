@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Vinicius G. Goecks"
-  avatar           : "profile.jpg"
+  avatar           : "profile_art.png"
   bio              : "PhD candidate at Texas A&M Univeristy"
   location         : "Texas, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en"
-  email            : "vinicius.goecks [at] tamu.edu"
+  email            : "vinicius.goecks@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Vinicius_G_Goecks"
   uri              :
   bitbucket        :
