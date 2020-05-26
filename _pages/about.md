@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow at the CCDC Army Research Laboratory, Human Research and Engineering Directorate.
+Postdoctoral Researcher at U.S. Army CCDC Army Research Laboratory, Human Research and Engineering Directorate.
 
 My research comprises developing novel machine learning algorithms for human-machine interaction, computer-vision algorithms for object detection, and how to leverage them to improve and control autonomous systems. Also play with time-series and financial data on my free time.
 
