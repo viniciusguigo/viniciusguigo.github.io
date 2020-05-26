@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <!-- - Succesfully defended my PhD disseration this December 2019! -->
-- As of May 2020, Started as Postdoctoral Fellow at the CCDC Army Research Laboratory, Human Research and Engineering Directorate!
+- As of May 2020, Started as Postdoctoral Researcher at U.S. Army CCDC Army Research Laboratory, Human Research and Engineering Directorate!
 - Graduated from Texas A&M University with a Doctor of Philosophy in Aerospace Engineering this May 2020!
 - Preprint of paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" is release on [arXiv](https://arxiv.org/abs/2003.12638) this March 2020. Please take a look at the [project page](https://sites.google.com/view/tamudrone-spie2020/) for more information. 
 - Paper "Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments" accepted this January 2020 to be presented at [AAMAS-20](https://aamas2020.conference.auckland.ac.nz/papers/).
