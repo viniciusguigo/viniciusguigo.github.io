@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Aerospace Engineering advised by Dr. John Valasek at Vehicle Systems & Control Laboratory, Texas A&M University.
+Postdoctoral Fellow at the CCDC Army Research Laboratory, Human Research and Engineering Directorate.
 
 My research comprises developing novel machine learning algorithms for human-machine interaction, computer-vision algorithms for object detection, and how to leverage them to improve and control autonomous systems. Also play with time-series and financial data on my free time.
 
