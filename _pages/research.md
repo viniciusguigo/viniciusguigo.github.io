@@ -29,7 +29,7 @@ Using human interaction to safely train autonomous systems combining supervised 
 # Vision-based Detection of Unmanned Air Systems for Counter-UAS
 ![LWIR+RGB Drone Detection](../images/drone_detection.png)
 
-Combines data from RGB and long-wave infrared (LWIR) cameras to detect drones through previously difficult environments such as when they are crossing the horizon/treeline, during sunrise with cameras pointed to the sun, 
+This research was winner of the 2020 SPIE Automatic Target Recognition Best Student Paper Award. It combines data from RGB and long-wave infrared (LWIR) cameras to detect drones through previously difficult environments such as when they are crossing the horizon/treeline, during sunrise with cameras pointed to the sun, 
 
 - **Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection**
   - [Project page](https://sites.google.com/view/tamudrone-spie2020/)
