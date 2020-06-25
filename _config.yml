@@ -13,7 +13,7 @@ name                     : &name "Vinicius G. Goecks"
 description              : &description "PhD candidate at Texas A&M Univeristy"
 url                      : https://vggoecks.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "viniciusguigo.github.io"
+repository               : "viniciusguigo/viniciusguigo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vinicius G. Goecks"
-  avatar           : "profile_art.png"
+  avatar           : "site_clean_cropped.png"
   bio              : "Ph.D., AI Researcher, Finance Enthusiast"
   location         : "Maryland, USA"
   employer         :
