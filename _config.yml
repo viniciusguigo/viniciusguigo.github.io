@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinicius G. Goecks"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vinicius G. Goecks"
-description              : &description "PhD candidate at Texas A&M Univeristy"
+description              : &description "Postdoctoral Researcher at Army Research Laboratory"
 url                      : https://vggoecks.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "viniciusguigo/viniciusguigo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vinicius G. Goecks"
   avatar           : "site_clean_cropped.png"
-  bio              : "Ph.D., AI Researcher, Finance Enthusiast"
+  bio              : "Postdoctoral Researcher at Army Research Laboratory"
   location         : "Maryland, USA"
   employer         :
   pubmed           : 

@@ -21,4 +21,4 @@ author_profile: true
 <center><img src="https://engineering.tamu.edu/news/2018/11/_news-images/AERO-news-feature-drone-hackathon-05Nov2018.jpg" alt="A-Team wins MD5 A-Hack-of-the-Drones 2018" width="500"/></center>
 - Released on August 2018 the preprint "Cycle-of-Learning for Autonomous Systems from Human Interaction" ([link](https://arxiv.org/abs/1808.09572){:target="_blank"}).
 - Excited to join the [Caltech Space Challenge 2017](http://csc.caltech.edu/CSC2017/first-day-of-the-challenge-the-journey-begins.html) on March 2017!
-<center><img src="http://csc.caltech.edu/CSC2017/images/day_1_image_1.jpeg" alt="Caltech Space Challenge 2017" width="500"/></center>
+<center><img src="../images/caltech_space_challenge_2017.jpeg" alt="PhD Defense" width="500"/></center>
