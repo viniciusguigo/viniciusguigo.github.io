@@ -12,7 +12,7 @@ Using human interaction to safely train autonomous systems combining supervised 
 - **Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Sparse Reward Environments**
   - [Project page](https://viniciusguigo.github.io/cycle-of-learning/)
   - [Paper](https://arxiv.org/abs/1910.04281)
-  - [Summary Video]()
+  - [Summary Video](https://www.youtube.com/watch?v=AQwsk6kZfok)
   - [AAMAS20 Conference Presentation (slides)](../files/CoL_AAMAS20_Presentation.pdf)
   - [AAMAS20 Conference Presentation (video)](https://youtu.be/FiHyO2pIZhA)
 - **Efficiently Combining Human Demonstrations and Interventions for Safe Training of Autonomous Systems in Real-Time**
