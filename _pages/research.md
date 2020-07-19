@@ -4,79 +4,98 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-# Human-in-the-loop Machine Learning
-![Cycle-of-Learning in AirSim](../images/col_airsim.png)
+# Research Areas
 
-Using human interaction to safely train autonomous systems combining supervised and reinforcement learning. 
+<style>
+  * {
+   box-sizing: border-box;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+  .card {
+    width: 195px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  } 
+  .card img {
+    max-width: 100%;
+    min-height: 250px;
+    object-fit: cover;
+  }
+  .card .text {
+    padding: 0 20px 20px;
+  }
+  .card .text > button {
+    background: gray;
+    border: 0;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    }
+  .card:nth-child(1) {
+    width: 315px;
+  }
+  .card:nth-child(1) img {    
+    filter: brightness(70%);
+  }
+  .btn-button {width: 100%; color: #494e52 !important; font-weight: 900 !important; background-color: white;} 
+  .btn-button:hover { color: #fff !important; }
+</style>
 
-- **Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Sparse Reward Environments**
-  - [Project page](https://viniciusguigo.github.io/cycle-of-learning/)
-  - [Paper](https://arxiv.org/abs/1910.04281)
-  - [Summary Video](https://www.youtube.com/watch?v=AQwsk6kZfok)
-  - [AAMAS20 Conference Presentation (slides)](../files/CoL_AAMAS20_Presentation.pdf)
-  - [AAMAS20 Conference Presentation (video)](https://youtu.be/FiHyO2pIZhA)
-- **Efficiently Combining Human Demonstrations and Interventions for Safe Training of Autonomous Systems in Real-Time**
-  - [Video](https://www.youtube.com/watch?v=1aktQxW7GQE)
-  - [Paper](https://arxiv.org/abs/1810.11545)
-- **Cycle-of-Learning for Autonomous Systems from Human Interaction**
-  - [Paper](https://arxiv.org/abs/1808.09572)
-- **Cyber-Human Approach For Learning Human Intention And Shape Robotic Behavior Based On Task Demonstration**
-  - [Paper](https://ieeexplore.ieee.org/document/8489595)
-- **PODNet: A Neural Network for Discovery of Plannable Options**
-  - [Paper](https://arxiv.org/abs/1911.00171)
+<main class="cards">
+  <article class="card">
+    <img src="https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1132&q=80">
+    <div class="text">
+      <h3>Artificial Intelligence and Human Interaction</h3>
+      <p>Combining supervised and reinforcement learning with human interaction modalities such as task demonstrations, eye gaze data, and natural language, to safely train autonomous systems.</p>
+      <a href="/ai/">
+      <button class = "btn btn-button">Learn More</button></a>
+    </div>
+  </article>
+  <article class="card">
+    <img src="https://images.unsplash.com/photo-1533309907656-7b1c2ee56ddf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=690&q=80">
+    <div class="text">
+      <h3>Vision-based Counter-UAS</h3>
+      <p>Fusing visible and long-wave infrared (LWIR) spectrum cameras to automatically detect UAS, or drones, at any period of the day.</p>
+      <a href="/counter-uas/">
+      <button class = "btn btn-button">Learn More</button></a>
+    </div>
+  </article>
+  <article class="card">
+    <img src="https://images.unsplash.com/photo-1447433727702-519621625f05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80">
+    <div class="text">
+      <h3>Space Robotics and Power Electronics</h3>
+      <p>Applying classic computer vision, estimation, and control theory to space robotics, with a pinch of mission design.</p>
+      <a href="/robotics/">
+      <button class = "btn btn-button">Learn More</button></a>
+    </div>
+  </article>
+  <article class="card">
+    <img src="https://images.unsplash.com/photo-1469198629071-b7d66775e2fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1356&q=80">
+    <div class="text">
+      <h3>Finance and Business Intelligence</h3>
+      <p>Automating data gathering, decision-making, and performance evaluation for business applications.</p>
+      <a href="/finance/">
+      <button class = "btn btn-button">Learn More</button></a>
+    </div>
+  </article>
+</main>
 
 
-# Vision-based Detection of Unmanned Air Systems for Counter-UAS
-![LWIR+RGB Drone Detection](../images/drone_detection.png)
+## Latest Publications
 
-This research was winner of the 2020 SPIE Automatic Target Recognition Best Student Paper Award. It combines data from RGB and long-wave infrared (LWIR) cameras to detect drones through previously difficult environments such as flying above and below the treeline/horizon, in the presence of birds, and glare from the sun. 
+To be updated soon.
 
-- **Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection**
-  - [Project page](https://sites.google.com/view/tamudrone-spie2020/)
-  - [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11394/2557442/Combining-visible-and-infrared-spectrum-imagery-using-machine-learning-for/10.1117/12.2557442.short)
-  - [Paper (preprint)](https://arxiv.org/abs/2003.12638)
-  - [News article](https://engineering.tamu.edu/news/2018/11/a-team-wins-md5-a-hack-of-the-drones-2018.html)
 
-# Intelligent Motion Video Guidance for Unmanned Air System Ground Target Tracking
-![Target Tracking with Reinforcement Learning](../images/tt_rl.png)
 
-Reinforcement learning agent trained to control a real fixed-wing aircraft and perform video tracking of ground targets. 
 
-- [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2019-0137)
-- [Video](https://youtu.be/isJtDdAiM3U)
 
-# Enabling Deep Space Exploration with an In-Space Propellant Depot Supplied from Lunar Ice
-![Concept of operations for Lunar surface systems](../images/lunar.png)
 
-Caltech Space Challenge 2017 (Lunarport): design a space mission to produce propellant in space by extracting lunar resources and enable deep space missions.
 
-- [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2017-5376)
-- [Challenge information](https://csc.caltech.edu/CSC2017/pages/participants.html)
 
-# Low-cost Satellite Attitude Control and Estimation Testbed (LAT)
-![LAT and camera calibration](../images/lat.png)
 
-Custom 3-DoF experimental attitude platform for testing attitude control and estimation algorithms.
 
-- [Paper](https://pdfs.semanticscholar.org/7b06/d263ca06911dbca0172f7641d606dd07faa5.pdf)
-- [Video](https://www.youtube.com/watch?v=pO9eCf5VcRc)
-
-# Computer Vision Aided Robotic Operations on the International Space Station
-![LSD-SLAM on the International Space Station](../images/iss.png)
-
-Development of a real-time, video-based, stereo reconstruction of large-scale environments to support robotics operations.
-
-- [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0883)
-- [Video](https://www.youtube.com/watch?v=lPiscexOUls)
-
-# Space Robotics: Holonomic Omni directional Motion Emulation Robot (HOMER)
-
-Assembling and testing a second HOMER unit for testing space proximity operation experiments.
-
-- [Video](https://www.youtube.com/watch?v=U3FQ1rvBtt0)
-
-# The 2011 IEEE International Future Energy Challenge  (IFEC'11)
-
-Design and implementation of the Tri-State Boost Current Source Inverter (CSI), awarded the IES Best Innovative Design of Power Electronic Converters during the IFEC'11.
-
-- [Challenge information](https://energychallenge.weebly.com/ifec-2011.html)
