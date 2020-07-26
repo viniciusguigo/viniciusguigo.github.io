@@ -6,6 +6,7 @@ author_profile: true
 ---
 # News
 - **June 2020** My paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" was selected as the winner of the Automatic Target Recognition Best Student Paper Award during the 2020 SPIE conference!
+<center><img src="../images/research/spie_award.png" alt="SPIE 2020 Award" width="350"/></center>
 - **May 2020** Started as Postdoctoral Researcher at U.S. Army CCDC Army Research Laboratory, Human Research and Engineering Directorate!
 - **May 2020** Graduated from Texas A&M University with a Doctor of Philosophy in Aerospace Engineering!
 - **March 2020** Preprint of paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" is release on [arXiv](https://arxiv.org/abs/2003.12638). Please take a look at the [project page](https://sites.google.com/view/tamudrone-spie2020/) for more information. 
