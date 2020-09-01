@@ -88,7 +88,7 @@ author_profile: true
 
 ## Latest Publications
 
-To be updated soon. For now, please check my [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) profile.
+Please check my [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) profile for my latest publications.
 
 
 
