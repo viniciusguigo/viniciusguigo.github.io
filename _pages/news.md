@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **December 2020**: CMidas Financial is up! Learn more at [https://cmidas.com](https://cmidas.com).
 - **June 2020** My paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" was selected as the winner of the Automatic Target Recognition Best Student Paper Award during the 2020 SPIE conference!
 <center><img src="../images/research/spie_award.png" alt="SPIE 2020 Award" width="350"/></center>
 - **May 2020** Started as Postdoctoral Researcher at U.S. Army CCDC Army Research Laboratory, Human Research and Engineering Directorate!

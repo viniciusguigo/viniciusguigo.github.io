@@ -77,9 +77,9 @@ author_profile: true
   <article class="card">
     <img src="https://images.unsplash.com/photo-1469198629071-b7d66775e2fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1356&q=80">
     <div class="text">
-      <h3>Finance and Business Intelligence</h3>
-      <p>Automating data gathering, decision-making, and performance evaluation for business applications.</p>
-      <a href="/finance/">
+      <h3>Market Forecasting and Financial Modeling</h3>
+      <p>Data-driven solutions applied to quantitative trading and financial modeling.</p>
+      <a href="https://cmidas.com">
       <button class = "btn btn-button">Learn More</button></a>
     </div>
   </article>
