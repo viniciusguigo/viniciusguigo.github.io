@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **December 2020**: Research highlighted at the [Aerospace America](https://aerospaceamerica.aiaa.org/year-in-review/progress-in-autonomy-space-robotics-satellite-systems-air-traffic-control/) magazine, 2020 Year in Review.
 - **December 2020**: CMidas Financial is up! Learn more at [https://cmidas.com](https://cmidas.com).
 - **June 2020** My paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" was selected as the winner of the Automatic Target Recognition Best Student Paper Award during the 2020 SPIE conference!
 <center><img src="../images/research/spie_award.png" alt="SPIE 2020 Award" width="350"/></center>
@@ -19,6 +20,7 @@ author_profile: true
 - **February 2019** Presented the research work "Efficiently Combining Human Demonstrations and Interventions for Safe Training of Autonomous Systems in Real-Time" ([paper](https://arxiv.org/abs/1810.11545){:target="_blank"}), at the [AAAI-19](https://aaai.org/Conferences/AAAI-19/){:target="_blank"} (picture by [Rob Meadows](https://twitter.com/robmeadows/status/1091382352167628800){:target="_blank"}).
 <center><img src="https://pbs.twimg.com/media/DyVedh0V4AA96fE.jpg" alt="Cycle-of-Learning on AAAI-2019" width="500"/></center>
 - **December 2018** Approved as PhD candidate!
+- **December 2018**: Research highlighted at the [Aerospace America](https://aerospaceamerica.aiaa.org/year-in-review/uh-1-huey-flies-autonomous-resupply-mission-in-test/) magazine, 2018 Year in Review.
 - **September 2018** Our hackathon team wins the [MD5 A-Hack-of-the-Drones 2018](https://a-hack-of-the-drones.devpost.com){:target="_blank"}. More information [here](https://engineering.tamu.edu/news/2018/11/a-team-wins-md5-a-hack-of-the-drones-2018.html){:target="_blank"}.
 <center><img src="https://engineering.tamu.edu/news/2018/11/_news-images/AERO-news-feature-drone-hackathon-05Nov2018.jpg" alt="A-Team wins MD5 A-Hack-of-the-Drones 2018" width="500"/></center>
 - **August 2018** Released the preprint "Cycle-of-Learning for Autonomous Systems from Human Interaction" ([link](https://arxiv.org/abs/1808.09572){:target="_blank"}).
