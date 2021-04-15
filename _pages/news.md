@@ -5,13 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **February 2021** Preprint of paper "Gaze-Informed Multi-Objective Imitation Learning from Human Demonstrations" released on [arXiv](https://arxiv.org/abs/2102.13008).
 - **December 2020**: Research highlighted at the [Aerospace America](https://aerospaceamerica.aiaa.org/year-in-review/progress-in-autonomy-space-robotics-satellite-systems-air-traffic-control/) magazine, 2020 Year in Review.
 - **December 2020**: CMidas Financial is up! Learn more at [https://cmidas.com](https://cmidas.com).
 - **June 2020** My paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" was selected as the winner of the Automatic Target Recognition Best Student Paper Award during the 2020 SPIE conference!
 <center><img src="../images/research/spie_award.png" alt="SPIE 2020 Award" width="350"/></center>
 - **May 2020** Started as Postdoctoral Researcher at U.S. Army CCDC Army Research Laboratory, Human Research and Engineering Directorate!
 - **May 2020** Graduated from Texas A&M University with a Doctor of Philosophy in Aerospace Engineering! My dissertation is available at [arXiv](https://arxiv.org/abs/2008.13221).
-- **March 2020** Preprint of paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" is release on [arXiv](https://arxiv.org/abs/2003.12638). Please take a look at the [project page](https://sites.google.com/view/tamudrone-spie2020/) for more information. 
+- **March 2020** Preprint of paper "Combining Visible and Infrared Spectrum Imagery using Machine Learning for Small Unmanned Aerial System Detection" released on [arXiv](https://arxiv.org/abs/2003.12638). Please take a look at the [project page](https://sites.google.com/view/tamudrone-spie2020/) for more information. 
 - **January 2020** Paper "Integrating Behavior Cloning and Reinforcement Learning for Improved Performance in Dense and Sparse Reward Environments" accepted to be presented at [AAMAS-20](https://aamas2020.conference.auckland.ac.nz/papers/).
 - **December 2019** Defended my PhD dissertation! Presentation available at [Dropbox](https://www.dropbox.com/s/qly3jbbl9g8qqns/Presentation_Defense_VGGoecks_final.pdf).
 <center><img src="../images/defense.jpg" alt="PhD Defense" width="500"/></center>
