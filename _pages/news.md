@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **August 2021** Joined the [NeurIPS 2021 MineRL BASALT Competition](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition).
 - **February 2021** Preprint of paper "Gaze-Informed Multi-Objective Imitation Learning from Human Demonstrations" released on [arXiv](https://arxiv.org/abs/2102.13008).
 - **December 2020**: Research highlighted at the [Aerospace America](https://aerospaceamerica.aiaa.org/year-in-review/progress-in-autonomy-space-robotics-satellite-systems-air-traffic-control/) magazine, 2020 Year in Review.
 - **December 2020**: CMidas Financial is up! Learn more at [https://cmidas.com](https://cmidas.com).
