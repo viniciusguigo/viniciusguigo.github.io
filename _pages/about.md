@@ -9,10 +9,8 @@ redirect_from:
 ---
 Hi and welcome to my webpage!
 
-I’m a Postdoctoral Researcher at U.S. Army Research Laboratory developing data-driven algorithms to distill structured and unstructured information from complex real-world scenarios, enabling seamless collaboration between humans and artificially intelligent agents. This includes fusing multimodal human input modalities, such as eye gaze and natural language, to multiple high and low-dimension data sources with reinforcement and supervised learning algorithms and deep neural networks.
+I’m a postdoctoral researcher at the U.S. Army Research Laboratory designing, implementing, and evaluating novel machine learning and reinforcement learning algorithms that learn from (inherently noisy and ambiguous) human feedback. I also maintain a machine learning-based web app that models and forecasts financial markets in real-time for [quantitative trading](https://www.cmidas.com/dashboard/).
 
-In my spare time, I enjoy modeling and forecasting financial markets based on real-time market tick and alternative data, investigating how to better leverage these forecasts for [quantitative trading](https://cmidas.com). Wish there was a theory to unify nonlinear dynamics and complex systems in the soft sciences!
-
-If you are interested in talking more about [related research](/research/), please reach me out at vinicius.goecks [at] gmail.com, or via LinkedIn and ResearchGate, for which you can find the links at the sidebar of this webpage.
+Please feel free to reach out via email (vinicius.goecks [at] gmail.com), LinkedIn, or ResearchGate following the links at the sidebar of this webpage.
 
 Thanks for visiting!
