@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
-- **November 2021** 100 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) :)
+- **November 2021** reached 100 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) :)
 - **October 2021** Released the preprint "On games and simulators as a platform for development of artificial intelligence for command and control
 " ([link](https://arxiv.org/abs/2110.11305){:target="_blank"}).
 - **October 2021** Submitted solution to the NeurIPS 2021 MineRL BASALT Competition. Currently 2nd position in the [public leaderboard](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition/leaderboards)!
