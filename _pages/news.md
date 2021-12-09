@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **December 2021** Won first place and the award for the most human-like agent at the [NeurIPS 2021 MineRL BASALT competition](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition)! Check it out our [paper](https://arxiv.org/abs/2112.03482) for more details on the hybrid intelligence approach we took.  
 - **November 2021** reached 100 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) :)
 - **October 2021** Released the preprint "On games and simulators as a platform for development of artificial intelligence for command and control
 " ([link](https://arxiv.org/abs/2110.11305){:target="_blank"}).
