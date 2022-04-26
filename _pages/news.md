@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **April 2022** Co-authored ["Retrospective on the 2021 BASALT Competition on Learning from Human Feedback"](https://arxiv.org/pdf/2204.07123.pdf) to appear on the Proceedings of Machine Learning Research.  
+- **March 2022** Published ["On games and simulators as a platform for development of artificial intelligence for command and control"](https://journals.sagepub.com/doi/abs/10.1177/15485129221083278), on The Journal of Defense Modeling and Simulation: Applications, Methodology, Technology.  
 - **January 2022** Interviewed by Yannic Kilcher talking about my NeurIPS 2021 MineRL BASALT winning solution. Full video [available on YouTube](https://www.youtube.com/watch?v=a4P8v8lGFPw).
 - **December 2021** Won first place and the award for the most human-like agent at the [NeurIPS 2021 MineRL BASALT competition](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition)! Check it out our [paper](https://arxiv.org/abs/2112.03482) for more details on the hybrid intelligence approach we took. The presentation is also [available on YouTube](https://youtu.be/0Xu1EkrFefo).  
 - **November 2021** reached 100 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) :)
