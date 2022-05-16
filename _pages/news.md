@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **May 2022** Released the preprint "Learning to Guide Multiple Heterogeneous Actors from a Single Human Demonstration via Automatic Curriculum Learning in StarCraft II" ([link](https://arxiv.org/abs/2205.05784){:target="_blank"}).  
 - **April 2022** Co-authored ["Retrospective on the 2021 BASALT Competition on Learning from Human Feedback"](https://arxiv.org/pdf/2204.07123.pdf) to appear on the Proceedings of Machine Learning Research.  
 - **March 2022** Published ["On games and simulators as a platform for development of artificial intelligence for command and control"](https://journals.sagepub.com/doi/abs/10.1177/15485129221083278), on The Journal of Defense Modeling and Simulation: Applications, Methodology, Technology.  
 - **January 2022** Interviewed by Yannic Kilcher talking about my NeurIPS 2021 MineRL BASALT winning solution. Full video [available on YouTube](https://www.youtube.com/watch?v=a4P8v8lGFPw).
