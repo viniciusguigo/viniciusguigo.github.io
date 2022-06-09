@@ -6,6 +6,7 @@ author_profile: true
 ---
 # News
 - **June 2022** Published "Learning to guide multiple heterogeneous actors from a single human demonstration via automatic curriculum learning in StarCraft II" on the 2022 SPIE Defense + Commercial Sensing conference, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV. Presentation is available [here](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12113/2622154/Learning-to-guide-multiple-heterogeneous-actors-from-a-single-human/10.1117/12.2622154.short?SSO=1).  
+- **May 2022** Released first working prototype (v1.2.0) of the options trading recommendation system at [CMidas Financial](https://www.cmidas.com/dashboard/).  
 - **May 2022** Released the preprint "Learning to Guide Multiple Heterogeneous Actors from a Single Human Demonstration via Automatic Curriculum Learning in StarCraft II" ([link](https://arxiv.org/abs/2205.05784){:target="_blank"}).  
 - **April 2022** Co-authored ["Retrospective on the 2021 BASALT Competition on Learning from Human Feedback"](https://arxiv.org/pdf/2204.07123.pdf) to appear on the Proceedings of Machine Learning Research.  
 - **March 2022** Published ["On games and simulators as a platform for development of artificial intelligence for command and control"](https://journals.sagepub.com/doi/abs/10.1177/15485129221083278), on The Journal of Defense Modeling and Simulation: Applications, Methodology, Technology.  
