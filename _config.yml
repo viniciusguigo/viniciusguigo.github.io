@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vinicius G. Goecks"
-description              : &description "Postdoctoral Researcher at Army Research Laboratory"
+description              : &description "Machine Learning Researcher"
 url                      : https://vggoecks.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "viniciusguigo/viniciusguigo.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Vinicius G. Goecks"
   avatar           : "profile_2022_small.png"
-  bio              : "Machine Learning Researcher and Engineer"
+  bio              : "Machine Learning Researcher"
   location         : 
-  employer         :
+  employer         : DEVCOM Army Research Lab.
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en"
   email            : "vinicius.goecks@gmail.com"

@@ -5,7 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # News
-- **January 2023** reached 200 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en).  
+- **February 2023** Started Senior Fellow position at the DEVCOM Army Research Laboratory, Humans in Complex Systems (HCxS) Division!  
+- **January 2023** Reached 200 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en).  
 - **December 2022** Our team presented at the [NeurIPS 2022 MineRL BASALT competition](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition). Results to be announced soon!  
 - **June 2022** Published "Learning to guide multiple heterogeneous actors from a single human demonstration via automatic curriculum learning in StarCraft II" on the 2022 SPIE Defense + Commercial Sensing conference, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV. Presentation is available [here](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12113/2622154/Learning-to-guide-multiple-heterogeneous-actors-from-a-single-human/10.1117/12.2622154.short?SSO=1).  
 - **May 2022** Released first working prototype (v1.2.0) of the options trading recommendation system at [CMidas Financial](https://www.cmidas.com/dashboard/).  

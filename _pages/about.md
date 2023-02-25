@@ -9,6 +9,9 @@ redirect_from:
 ---
 Hi and welcome to my webpage!
 
-I’m a machine learning researcher and engineer designing novel machine learning and reinforcement learning algorithms that learn from (inherently noisy and ambiguous) human feedback. I'm also building [machine learning-based software tools](https://www.cmidas.com/) to make individual traders more confident when investing their money.  
+I'm a machine learning researcher who designs novel algorithms that learn from human interaction. Currently, my research focuses on developing machine learning and reinforcement learning algorithms that leverage large language models as a natural interface between humans and data-driven systems. Specifically, I'm interested in how these algorithms can be used to improve communication and decision-making on scenarios where humans and machines need to work together.
 
-Please feel free to reach out via email (vinicius.goecks [at] gmail.com) or [LinkedIn](https://www.linkedin.com/in/vggoecks/). Thanks for visiting!
+You can explore my research on [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en) and connect with me on [LinkedIn](https://www.linkedin.com/in/vggoecks/). If you have any questions or would like to chat, feel free to email me at vinicius.goecks@gmail.com.
+
+Thanks for stopping by!
+
