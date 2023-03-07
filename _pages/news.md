@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **March 2023** Our team was awarded the research prize at the [NeurIPS 2022 MineRL BASALT](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition) competition, Learning from Human Feedback in Minecraft!  
+- **March 2023** Our paper "Learning Flight Control Systems from Human Demonstrations and Real-Time Uncertainty-Informed Interventions" was accepted to be presented at the IFAC World Congress 2023. Preprint will be released soon.  
 - **February 2023** Started Senior Fellow position at the DEVCOM Army Research Laboratory, Humans in Complex Systems (HCxS) Division!  
 - **January 2023** Reached 200 research citations, according to [Google Scholar](https://scholar.google.com/citations?user=zRD7VRUAAAAJ&hl=en).  
 - **December 2022** Our team presented at the [NeurIPS 2022 MineRL BASALT competition](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition). Results to be announced soon!  
