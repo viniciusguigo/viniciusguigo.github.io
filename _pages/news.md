@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # News
+- **November 2023** Spoke at the University College London - Machine Learning Interest Group about my work on Human-Guided Machine Learning for Multi-Agent and Reinforcement Learning Systems.  
 - **July 2023** Three workshop papers were accepted and presented at the [2023 International Conference on Machine Learning (ICML)](https://icml.cc/): using LLMs to generate plans of action in disaster response scenarios ([preprint](https://arxiv.org/abs/2306.17271)), imitation learning with human eye gaze ([preprint](https://arxiv.org/abs/2102.13008)), and reinforcement learning from human feedback in Minecraft ([preprint](https://arxiv.org/abs/2307.12158)).   
 - **July 2023** Presented "Learning Flight Control Systems from Human Demonstrations and Real-Time Uncertainty-Informed Interventions" ([preprint](https://arxiv.org/abs/2305.00929)) at the [2023 IFAC World Congress](https://www.ifac2023.org/) in Yokohama, Japan.  
 - **March 2023** Our team was awarded the research prize at the [NeurIPS 2022 MineRL BASALT](https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition) competition, Learning from Human Feedback in Minecraft!  
